@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Peter. </h2>
+<h2> Hey there! I'm Peter :) </h2>
 
 <p>I am a full stack web developer that specializes in React</p>
 

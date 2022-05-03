@@ -8,4 +8,4 @@
 - 🔭 &nbsp; I’m currently working with React, Tailwind, Next JS, D3, and AWS 
 - 🎓 &nbsp; Completed two years of Computer Scienece at the University of Victoria
 - 💼 &nbsp; Full stack web and mobile developer (prefer web front-end)
-- ✍️ &nbsp; I love to travel, kiteboard and play chess
+- ✍️ &nbsp; I love to boulder, travel, kiteboard and play chess

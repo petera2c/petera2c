@@ -5,7 +5,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently working with React, Tailwind, Next JS, D3, and AWS 
-- 🎓 &nbsp; Completed two years of Computer Scienece at the University of Victoria
+- 🔭 &nbsp; I’m currently working with React and Graphql
+- 🎓 &nbsp; Completed two years of Computer Science at the University of Victoria
 - 💼 &nbsp; Full stack web and mobile developer (prefer web front-end)
 - ✍️ &nbsp; I love to boulder, travel, kiteboard and play chess

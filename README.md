@@ -2,7 +2,7 @@
 
 Full-time Front-End Developer | React enthusiast | Builder of useful things
 
-- 🌎 I live in Canada but escape Canadian winters in Colombia where I live part time (❄️→🌴)
+- 🌎 I am Canadian but escape Canadian winters in Colombia where I live part time (❄️→🌴)
 - 🏃‍♂️ When I’m not coding: kiteboarding, playing padel, bouldering, or walking my dogs
 - 🔭 Currently spending weekends on my side project → [**Simple Table**](https://www.simple-table.com)
 
